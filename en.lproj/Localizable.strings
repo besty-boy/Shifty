@@ -1,0 +1,201 @@
+"home.title" = "Shifty";
+"home.streak.short" = "%d d";
+"home.streak.accessibility" = "Current streak %d days";
+"home.subtitle" = "Every scan improves your impact.";
+"home.scan.button" = "Scan";
+"home.ai.instructions" = "You produce a short, inspiring quote about ecology in English.\nMaximum 2 sentences, positive tone, concrete, focused on daily actions.";
+"home.ai.prompt" = "Generate the quote of the day on waste sorting.";
+"home.ai.source" = "Powered by Apple Intelligence";
+"home.total.points" = "Total Points";
+"home.scans.label" = "Scans";
+"home.level.short" = "Lvl %d";
+"home.level.label" = "Level";
+"home.ai.badge" = "Intelligence";
+"home.progress.title" = "Progress";
+"home.points.remaining" = "%d pts left";
+
+"quote.q1.text" = "Every correctly sorted item prevents unnecessary pollution.";
+"quote.q1.source" = "Shifty";
+"quote.q2.text" = "The best waste is the one that isn't produced.";
+"quote.q2.source" = "Zero Waste Principle";
+"quote.q3.text" = "Sorting today means protecting tomorrow's resources.";
+"quote.q3.source" = "Shifty";
+"quote.q4.text" = "Every action counts. Every sort makes a difference.";
+"quote.q4.source" = "Shifty";
+"quote.q5.text" = "Reduce, Reuse, Recycle: The 3Rs of change.";
+"quote.q5.source" = "Circular Economy";
+
+"scan.close" = "Close";
+"scan.new" = "New";
+"scan.new.accessibility" = "New scan";
+"scan.take_photo" = "Take a photo";
+"scan.swipe_hint" = "Swipe";
+"scan.ready.title" = "Ready to scan";
+"scan.analyzing.title" = "Analyzing";
+"scan.analyzing.subtitle" = "AI at work...";
+"scan.instruction.title" = "Instruction";
+"scan.did_you_know" = "Did you know?";
+"scan.more.show" = "Learn more";
+"scan.more.hide" = "Show less";
+"scan.points" = "points";
+
+"scan.sort.compost" = "Place this item in the compost bin.";
+"scan.sort.recycle" = "Place this item in the recycling bin.";
+"scan.sort.trash" = "Residual waste, general trash bin.";
+
+"scan.confidence.high" = "High";
+"scan.confidence.medium" = "Medium";
+"scan.confidence.low" = "Low";
+
+"scan.permission.required" = "Camera required";
+"scan.permission.body" = "Shifty needs the camera to analyze your waste and help you sort correctly.";
+"scan.permission.settings" = "Enable access in Settings -> Shifty -> Camera";
+"scan.status.ready" = "Frame a waste item and tap the photo button.";
+"scan.error.capture_failed" = "Could not capture photo. Try again.";
+"scan.status.capture" = "Capturing...";
+"scan.status.analyzing" = "Analyzing...";
+"scan.status.unrecognized" = "Object not recognized. Take a closer photo.";
+"scan.error.no_usable_result" = "No usable result on this image.";
+"scan.status.done.low_confidence" = "Analysis done. Low confidence, check before throwing away.";
+"scan.status.done" = "Analysis complete.";
+"scan.status.timeout" = "Analysis took too long. Try again with a clearer shot.";
+"scan.error.timeout" = "The model failed to conclude in time.";
+"scan.anecdote.compost" = "Turning organic waste into compost enriches the soil and reduces the volume of standard trash.";
+"scan.anecdote.recycle" = "Recycling saves raw materials and reduces the energy needed to manufacture new products.";
+"scan.anecdote.trash" = "This looks like residual waste. When in doubt, check your city's sorting guidelines.";
+"scan.object.unknown" = "Unknown object";
+
+"camera.error.session_not_configured" = "Camera session not configured.";
+"camera.error.session_stopped" = "Camera session stopped.";
+"camera.error.configuration_failed" = "Unable to configure camera.";
+"camera.error.capture_failed" = "Photo capture error: %@";
+"camera.error.read_failed" = "Unable to read captured photo.";
+"camera.error.unsupported_format" = "Unsupported image format.";
+
+"mock.object.banana" = "Banana";
+
+"mock.object.apple_core" = "Apple core";
+
+"mock.object.plastic_bottle" = "Plastic bottle";
+
+"mock.object.glass_jar" = "Glass bottle";
+
+"mock.object.chip_bag" = "Bag of chips";
+
+"mock.object.cardboard" = "Cardboard";
+
+"mock.object.newspaper" = "Newspaper";
+
+"mock.object.aluminum_can" = "Aluminum can";
+
+"mock.object.coffee_cup" = "Coffee cup";
+
+"mock.object.eggshells" = "Eggshells";
+"mock.object.styrofoam" = "Ice cube";
+
+"waste.category.compost" = "Compost";
+"waste.category.recycle" = "Recycle";
+"waste.category.trash" = "Others";
+
+"onboarding.skip" = "Skip";
+"onboarding.next" = "Continue";
+"onboarding.start" = "Start";
+
+"onboarding.page1.title" = "Scan, sort, act";
+"onboarding.page1.subtitle" = "Use your camera to identify waste and get the right sorting instruction in seconds.";
+"onboarding.page2.title" = "An action that counts";
+"onboarding.page2.subtitle" = "Every correct sort reduces carbon footprint and limits waste sent to landfills.";
+"onboarding.page3.title" = "Earn points";
+"onboarding.page3.subtitle" = "Progress at your own pace and track your positive impact daily.";
+
+"onboarding.why.title" = "Why sort correctly?";
+"onboarding.why.subtitle" = "• Preserve resources: recycling saves raw materials and energy.\n• Reduce pollution: less incineration and landfills.\n• Protect biodiversity: less waste in nature.\n• Act locally: correct sorting helps treatment centers.";
+"onboarding.stats.title" = "Did you know?";
+"onboarding.stats.subtitle" = "• Recycling 1 ton of paper saves up to 17 trees.\n• Aluminum recycles infinitely and saves ~95% energy.\n• A plastic bottle takes up to 450 years to degrade.\n• Composting significantly reduces methane emissions.";
+"onboarding.quiz.title" = "Mini-quiz: Become a sorting pro";
+"onboarding.quiz.q1.title" = "A clean plastic bottle goes in...";
+"onboarding.quiz.q1.option.recycle" = "The recycling bin";
+"onboarding.quiz.q1.option.compost" = "The compost";
+"onboarding.quiz.q1.option.trash" = "The regular trash";
+"onboarding.quiz.q1.feedback.correct" = "Well done! +10 points";
+"onboarding.quiz.q1.feedback.wrong" = "Oops, try again";
+"onboarding.badge.unlocked" = "Badge unlocked!";
+"onboarding.badge.name.beginner" = "Sorting Beginner";
+"onboarding.badge.subtitle" = "Congrats on your correct answers! You earned your first badge.";
+"onboarding.badge.cta" = "Let's go!";
+
+"onboarding.badge.level" = "Badge Level";
+"onboarding.badge.level.current" = "Current Level: %d";
+"onboarding.badge.level.next" = "Next badge at level %d";
+
+"home.trophies.title" = "Trophies";
+"home.trophies.subtitle" = "Your collection of earned badges";
+"home.trophies.level_requirement" = "Level %d";
+"badge.beginner" = "Sorting Beginner";
+"badge.junior" = "Sorting Junior";
+"badge.expert" = "Sorting Expert";
+"badge.master" = "Sorting Master";
+"home.menu.trophies" = "Trophies";
+
+"home.menu.training" = "Training";
+
+"game.title" = "Training";
+"game.instructions" = "Swipe the card to the correct bin: Compost, Recycling, or Trash.";
+"game.bin.compost" = "Compost";
+"game.bin.recycle" = "Recycling";
+"game.bin.trash" = "Trash";
+"game.feedback.correct" = "Well done!";
+"game.feedback.wrong" = "Try again";
+"game.completed" = "Training complete!";
+"game.stage" = "Training Level: %d";
+"game.counter" = "%d / %d";
+
+"quote.generating" = "Generating quote…";
+
+"home.points.label" = "POINTS";
+"home.trophies.progress_hint" = "%d more levels to unlock %@";
+"home.quote.placeholder" = "Only one quote generated for this session.";
+"tab.home" = "Home";
+"tab.training" = "Training";
+"tab.trophies" = "Trophies";
+"tab.scan" = "Scanner";
+
+"game.score" = "Score";
+"game.feedback.wrong_with_answer" = "Not this one. Correct bin: %@";
+"game.finished.score" = "%d / %d";
+"game.restart" = "Restart";
+"game.card.swipe_hint" = "Swipe left for compost, up for recycling, right for trash.";
+"game.performance.excellent" = "Excellent sorting reflexes.";
+"game.performance.strong" = "Very good result. You're almost ready for real scans.";
+"game.performance.good" = "Good progress. Keep training to gain speed.";
+"game.performance.keep_training" = "Keep training. Regular practice improves accuracy quickly.";
+
+"onboarding.back" = "Back";
+"onboarding.progress" = "Step %d of %d";
+"scan.analyzing" = "Analyzing";
+
+
+"trophy.page.subtitle" = "Track your global progress, scan achievements, and training milestones.";
+"trophy.global_level" = "Global Level";
+"trophy.global_level_hint" = "%d pts to next level";
+"trophy.level_badges" = "Level Badges";
+"trophy.scan.title" = "Scan Trophies";
+"trophy.scan.subtitle" = "Unlock rewards as you scan more objects.";
+"trophy.scan.scout" = "Scan Scout";
+"trophy.scan.sorter" = "Sort Specialist";
+"trophy.scan.advanced" = "Advanced Scanner";
+"trophy.scan.legend" = "Scan Legend";
+"trophy.training.title" = "Training Trophies";
+"trophy.training.subtitle" = "Practice regularly to unlock training milestones.";
+"trophy.training.sessions" = "Sessions";
+"trophy.training.starter" = "Training Starter";
+"trophy.training.regular" = "Regular Trainee";
+"trophy.training.focus" = "Focused Sorter";
+"trophy.training.master" = "Training Master";
+"trophy.training.highlights" = "Training Highlights";
+"trophy.training.perfect" = "Perfect sessions";
+"trophy.training.best_score" = "Best score";
+"trophy.progress.next" = "%d more to unlock %@";
+"trophy.unlocked" = "Unlocked";
+"onboarding.page1.siri" = "Ask Siri: \"Scan with Shifty\"";
+"onboarding.quiz.gate" = "Select the correct answer to continue.";

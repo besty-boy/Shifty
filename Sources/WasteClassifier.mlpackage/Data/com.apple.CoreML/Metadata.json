@@ -1,0 +1,15 @@
+{
+  "MLModelVersionStringKey" : "--",
+  "MLModelDescriptionKey" : "Un modèle de vision embarqué qui identifie, à partir de la caméra, les objets du quotidien à trier et les classe instantanément en Compost, Recyclage ou Autres.",
+  "MLModelCreatorDefinedKey" : {
+    "com.apple.coreml.model.preview.type" : "imageClassifier",
+    "com.apple.createml.training.started" : "2026-02-08T09:42:15Z",
+    "com.apple.createml.version" : "26.3.0",
+    "com.apple.createml.training.finished" : "2026-02-08T09:42:16Z",
+    "com.apple.createml.app.tag" : "175.7",
+    "com.apple.createml.model.created" : "2026-02-08T09:42:16Z",
+    "com.apple.createml.app.version" : "6.2"
+  },
+  "MLModelAuthorKey" : "Baptiste barraud",
+  "MLModelLicenseKey" : "--"
+}

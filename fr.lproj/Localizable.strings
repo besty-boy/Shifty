@@ -1,0 +1,220 @@
+"home.title" = "Shifty";
+"home.streak.short" = "%d j";
+"home.streak.accessibility" = "Série en cours %d jours";
+"home.subtitle" = "Chaque scan améliore ton impact.";
+"home.scan.button" = "Scanner";
+"home.ai.instructions" = "Tu produis une citation courte et inspirante en français sur l'écologie.\nMaximum 2 phrases, ton positif, concret, orienté gestes quotidiens.";
+"home.ai.prompt" = "Génère la citation du jour sur le tri des déchets.";
+"home.ai.source" = "Powered by Apple Inteligence";
+"home.total.points" = "Points totaux";
+"home.scans.label" = "Scans";
+"home.level.short" = "Niv. %d";
+"home.level.label" = "Niveau";
+"home.ai.badge" = "Intelligence";
+"home.progress.title" = "Progression";
+"home.points.remaining" = "Encore %d pts";
+
+"quote.q1.text" = "Chaque déchet bien trié évite une pollution inutile.";
+"quote.q1.source" = "Shifty";
+"quote.q2.text" = "Le meilleur déchet est celui qu'on ne produit pas.";
+"quote.q2.source" = "Principe zéro déchet";
+"quote.q3.text" = "Trier aujourd'hui, c'est protéger les ressources de demain.";
+"quote.q3.source" = "Shifty";
+"quote.q4.text" = "Chaque geste compte. Chaque tri fait la différence.";
+"quote.q4.source" = "Shifty";
+"quote.q5.text" = "Réduire, réutiliser, recycler : les 3R du changement.";
+"quote.q5.source" = "Économie circulaire";
+
+"scan.close" = "Fermer";
+"scan.new" = "Nouveau";
+"scan.new.accessibility" = "Nouveau scan";
+"scan.take_photo" = "Prendre une photo";
+"scan.swipe_hint" = "Glisse";
+"scan.ready.title" = "Prêt à scanner";
+"scan.analyzing.title" = "Analyse en cours";
+"scan.analyzing.subtitle" = "IA au travail...";
+"scan.instruction.title" = "Consigne";
+"scan.did_you_know" = "Le savais-tu ?";
+"scan.more.show" = "En savoir plus";
+"scan.more.hide" = "Réduire";
+"scan.points" = "points";
+
+"scan.sort.compost" = "Place cet objet dans le bac compost.";
+"scan.sort.recycle" = "Place cet objet dans le bac recyclage.";
+"scan.sort.trash" = "Objet résiduel, bac ordures ménagères.";
+
+"scan.confidence.high" = "Élevée";
+"scan.confidence.medium" = "Moyenne";
+"scan.confidence.low" = "Faible";
+
+"scan.permission.required" = "Caméra requise";
+"scan.permission.body" = "Shifty a besoin de la caméra pour analyser tes déchets et t'aider à trier correctement.";
+"scan.permission.settings" = "Active l'accès dans Réglages -> Shifty -> Appareil photo";
+
+"scan.status.ready" = "Cadrez un déchet puis touchez le bouton photo.";
+"scan.error.capture_failed" = "Impossible de capturer la photo. Réessaie.";
+"scan.status.capture" = "Capture...";
+"scan.status.analyzing" = "Analyse en cours...";
+"scan.status.unrecognized" = "Objet non reconnu. Reprenez une photo plus proche.";
+"scan.error.no_usable_result" = "Aucun résultat exploitable sur cette image.";
+"scan.status.done.low_confidence" = "Analyse terminée. Confiance faible, vérifie avant de jeter.";
+"scan.status.done" = "Analyse terminée.";
+"scan.status.timeout" = "Analyse trop longue. Réessaie avec un cadrage plus net.";
+"scan.error.timeout" = "Le modèle n'a pas réussi à conclure à temps.";
+
+"scan.anecdote.compost" = "Transformer les déchets organiques en compost enrichit les sols et réduit le volume des poubelles classiques.";
+"scan.anecdote.recycle" = "Recycler économise les matières premières et diminue l'énergie nécessaire à la fabrication de nouveaux produits.";
+"scan.anecdote.trash" = "Ce déchet semble résiduel. En cas de doute, compare avec les consignes de tri de ta ville.";
+
+"scan.object.unknown" = "Objet inconnu";
+
+"camera.error.session_not_configured" = "Session caméra non configurée.";
+"camera.error.session_stopped" = "Session caméra arrêtée.";
+"camera.error.configuration_failed" = "Impossible de configurer la caméra.";
+"camera.error.capture_failed" = "Erreur capture photo : %@";
+"camera.error.read_failed" = "Impossible de lire la photo capturée.";
+"camera.error.unsupported_format" = "Format d'image non supporté.";
+
+"mock.object.banana" = "Banane";
+"mock.object.apple_core" = "Trognon de pomme";
+"mock.object.plastic_bottle" = "Bouteille en plastique";
+"mock.object.glass_jar" = "Bouteille en Verre";
+"mock.object.chip_bag" = "sac de chips";
+"mock.object.cardboard" = "Carton";
+"mock.object.newspaper" = "Journal";
+"mock.object.aluminum_can" = "Canette en aluminium";
+"mock.object.coffee_cup" = "Gobelet à café";
+"mock.object.eggshells" = "coquille d'œuf";
+"mock.object.styrofoam" = "Glaçon";
+
+
+"waste.category.compost" = "Compost";
+"waste.category.recycle" = "Recyclage";
+"waste.category.trash" = "Autres";
+
+
+"onboarding.skip" = "Passer";
+"onboarding.next" = "Continuer";
+"onboarding.start" = "Commencer";
+
+"onboarding.page1.title" = "Bienvenue sur Shifty";
+"onboarding.page1.subtitle" = "Scannez vos déchets pour savoir où les trier.";
+
+"onboarding.page2.title" = "Pourquoi trier ?";
+"onboarding.page2.subtitle" = "Réduisez vos déchets et protégez la planète en triant au quotidien.";
+
+"onboarding.page3.title" = "Gagnez des points";
+"onboarding.page3.subtitle" = "Cumulez des points, suivez votre progression et gardez la motivation !";
+
+"onboarding.page1.title" = "Scannez, triez, agissez";
+"onboarding.page1.subtitle" = "Utilisez votre appareil photo pour identifier vos déchets et obtenir la bonne consigne de tri en quelques secondes.";
+"onboarding.page2.title" = "Un geste qui compte";
+"onboarding.page2.subtitle" = "Chaque tri correct réduit l'empreinte carbone et limite les déchets envoyés à l'enfouissement.";
+"onboarding.page3.title" = "Gagnez des points";
+"onboarding.page3.subtitle" = "Progressez à votre rythme et suivez votre impact positif au quotidien.";
+"onboarding.why.title" = "Pourquoi bien trier ?";
+"onboarding.why.subtitle" = "• Préserver les ressources: le recyclage économise matières premières et énergie.\n• Réduire la pollution: moins d'incinération et de décharges.\n• Protéger la biodiversité: moins de déchets dans la nature.\n• Agir localement: un tri correct facilite le travail des centres de traitement.";
+"onboarding.stats.title" = "Le saviez-vous ?";
+"onboarding.stats.subtitle" = "• Recycler 1 tonne de papier sauve jusqu'à 17 arbres.\n• L'aluminium se recycle à l'infini et économise ~95% d'énergie.\n• Une bouteille en plastique met jusqu'à 450 ans à se dégrader.\n• Le compostage réduit fortement les émissions de méthane.";
+"onboarding.quiz.title" = "Mini‑quiz: deviens un pro du tri";
+"onboarding.quiz.q1.title" = "Une bouteille en plastique propre va dans...";
+"onboarding.quiz.q1.option.recycle" = "Le bac de recyclage";
+"onboarding.quiz.q1.option.compost" = "Le compost";
+"onboarding.quiz.q1.option.trash" = "La poubelle ordinaire";
+"onboarding.quiz.q1.feedback.correct" = "Bravo ! +10 points";
+"onboarding.quiz.q1.feedback.wrong" = "Oups, essaie encore";
+"onboarding.badge.unlocked" = "Badge débloqué !";
+"onboarding.badge.name.beginner" = "Débutant du tri";
+"onboarding.badge.subtitle" = "Bravo pour tes bonnes réponses ! Tu gagnes ton premier badge.";
+"onboarding.badge.cta" = "C’est parti !";
+
+"onboarding.badge.level" = "Niveau du badge";
+"onboarding.badge.level.current" = "Niveau actuel: %d";
+"onboarding.badge.level.next" = "Prochain badge au niveau %d";
+
+
+
+"home.trophies.title" = "Trophées";
+"home.trophies.subtitle" = "Ta collection de badges remportés";
+"home.trophies.level_requirement" = "Niveau %d";
+"badge.beginner" = "Débutant du tri";
+"badge.junior" = "Tri junior";
+"badge.expert" = "Expert du tri";
+"badge.master" = "Maître du tri";
+"home.menu.trophies" = "Trophées";
+
+
+"home.menu.training" = "Entraînement";
+
+
+"game.title" = "Entraînement";
+"game.instructions" = "Fais glisser la carte vers le bon bac: Compost, Recyclage ou Ordures.";
+"game.bin.compost" = "Compost";
+"game.bin.recycle" = "Recyclage";
+"game.bin.trash" = "Ordures";
+"game.feedback.correct" = "Bravo !";
+"game.feedback.wrong" = "Essaie encore";
+"game.completed" = "Entraînement terminé !";
+"game.stage" = "Niveau d'entraînement: %d";
+"game.counter" = "%d / %d";
+
+
+   "home.trophies.title" = "Trophées";
+   "home.trophies.subtitle" = "Ta collection de badges remportés";
+   "home.trophies.level_requirement" = "Niveau %d";
+"badge.beginner" = "Débutant du tri";
+   "badge.junior" = "Tri junior";
+   "badge.expert" = "Expert du tri";
+   "badge.master" = "Maître du tri";
+
+"quote.generating" = "Génération de la citation…";
+
+"home.points.label" = "POINTS";
+"home.trophies.progress_hint" = "Plus que %d niveaux pour débloquer %@";
+"home.quote.placeholder" = "Une seule citation générée pour cette session.";
+"tab.home" = "Accueil";
+"tab.training" = "Entraînement";
+"tab.trophies" = "Trophées";
+"tab.scan" = "Scanner";
+
+"game.score" = "Score";
+"game.feedback.wrong_with_answer" = "Pas celui‑ci. Bac correct : %@";
+"game.finished.score" = "%d / %d";
+"game.restart" = "Recommencer";
+"game.card.swipe_hint" = "Balayez à gauche pour le compost, vers le haut pour le recyclage, à droite pour les ordures.";
+"game.performance.excellent" = "Excellents réflexes de tri.";
+"game.performance.strong" = "Très bon résultat. Tu es presque prêt pour de vrais scans.";
+"game.performance.good" = "Bon progrès. Continue l’entraînement pour gagner en rapidité.";
+"game.performance.keep_training" = "Continue l’entraînement. La pratique régulière améliore vite la précision.";
+
+"onboarding.back" = "Retour";
+"onboarding.progress" = "Étape %d sur %d";
+
+"scan.analyzing" = "Analyse en cours";
+
+
+
+"trophy.page.subtitle" = "Suivez votre progression globale, vos succès de scan et vos paliers d'entraînement.";
+"trophy.global_level" = "Niveau global";
+"trophy.global_level_hint" = "%d pts avant le niveau suivant";
+"trophy.level_badges" = "Badges de niveau";
+"trophy.scan.title" = "Trophées de scan";
+"trophy.scan.subtitle" = "Débloquez des récompenses en scannant plus d'objets.";
+"trophy.scan.scout" = "Éclaireur du scan";
+"trophy.scan.sorter" = "Spécialiste du tri";
+"trophy.scan.advanced" = "Scanner avancé";
+"trophy.scan.legend" = "Légende du scan";
+"trophy.training.title" = "Trophées d'entraînement";
+"trophy.training.subtitle" = "Entraînez-vous régulièrement pour débloquer des paliers.";
+"trophy.training.sessions" = "Sessions";
+"trophy.training.starter" = "Débutant en entraînement";
+"trophy.training.regular" = "Régulier du tri";
+"trophy.training.focus" = "Trieur concentré";
+"trophy.training.master" = "Maître de l'entraînement";
+"trophy.training.highlights" = "Temps forts d'entraînement";
+"trophy.training.perfect" = "Sessions parfaites";
+"trophy.training.best_score" = "Meilleur score";
+"trophy.progress.next" = "Encore %d pour débloquer %@";
+"trophy.unlocked" = "Débloqué";
+"onboarding.page1.siri" = "Demande a Siri : \"Scanne avec Shifty\"";
+"onboarding.quiz.gate" = "Selectionne la bonne reponse pour continuer.";

@@ -1,0 +1,200 @@
+"home.title" = "Shifty";
+"home.streak.short" = "%d d";
+"home.streak.accessibility" = "Racha actual %d días";
+"home.subtitle" = "Cada escaneo mejora tu impacto.";
+"home.scan.button" = "Escanear";
+"home.ai.instructions" = "Produces una cita corta e inspiradora sobre ecología en español.\nMáximo 2 frases, tono positivo, concreto, orientado a gestos cotidianos.";
+"home.ai.prompt" = "Genera la cita del día sobre el reciclaje de residuos.";
+"home.ai.source" = "Powered by Apple Intelligence";
+"home.total.points" = "Puntos totales";
+"home.scans.label" = "Escaneos";
+"home.level.short" = "Niv. %d";
+"home.level.label" = "Nivel";
+"home.ai.badge" = "Inteligencia";
+"home.progress.title" = "Progreso";
+"home.points.remaining" = "Faltan %d pts";
+
+"quote.q1.text" = "Cada residuo bien clasificado evita una contaminación innecesaria.";
+"quote.q1.source" = "Shifty";
+"quote.q2.text" = "El mejor residuo es el que no se produce.";
+"quote.q2.source" = "Principio Cero Residuos";
+"quote.q3.text" = "Separar hoy es proteger los recursos de mañana.";
+"quote.q3.source" = "Shifty";
+"quote.q4.text" = "Cada gesto cuenta. Cada clasificación marca la diferencia.";
+"quote.q4.source" = "Shifty";
+"quote.q5.text" = "Reducir, reutilizar, reciclar: las 3R del cambio.";
+"quote.q5.source" = "Economía circular";
+
+"scan.close" = "Cerrar";
+"scan.new" = "Nuevo";
+"scan.new.accessibility" = "Nuevo escaneo";
+"scan.take_photo" = "Hacer foto";
+"scan.swipe_hint" = "Desliza";
+"scan.ready.title" = "Listo para escanear";
+"scan.analyzing.title" = "Analizando";
+"scan.analyzing.subtitle" = "IA trabajando...";
+"scan.instruction.title" = "Instrucción";
+"scan.did_you_know" = "¿Lo sabías?";
+"scan.more.show" = "Saber más";
+"scan.more.hide" = "Reducir";
+"scan.points" = "puntos";
+
+"scan.sort.compost" = "Coloca este objeto en el contenedor de orgánico/compost.";
+"scan.sort.recycle" = "Coloca este objeto en el contenedor de reciclaje.";
+"scan.sort.trash" = "Residuo general, contenedor de basura.";
+
+"scan.confidence.high" = "Alta";
+"scan.confidence.medium" = "Media";
+"scan.confidence.low" = "Baja";
+
+"scan.permission.required" = "Cámara requerida";
+"scan.permission.body" = "Shifty necesita la cámara para analizar tus residuos y ayudarte a separar correctamente.";
+"scan.permission.settings" = "Activa el acceso en Ajustes -> Shifty -> Cámara";
+"scan.status.ready" = "Encuadra un residuo y toca el botón de foto.";
+"scan.error.capture_failed" = "No se pudo capturar la foto. Inténtalo de nuevo.";
+"scan.status.capture" = "Capturando...";
+"scan.status.analyzing" = "Analizando...";
+"scan.status.unrecognized" = "Objeto no reconocido. Toma una foto más de cerca.";
+"scan.error.no_usable_result" = "Sin resultados útiles en esta imagen.";
+"scan.status.done.low_confidence" = "Análisis terminado. Confianza baja, verifica antes de tirar.";
+"scan.status.done" = "Análisis completado.";
+"scan.status.timeout" = "El análisis tardó demasiado. Intenta con un encuadre más nítido.";
+"scan.error.timeout" = "El modelo no logró concluir a tiempo.";
+"scan.anecdote.compost" = "Transformar residuos orgánicos en compost enriquece los suelos y reduce el volumen de la basura clásica.";
+"scan.anecdote.recycle" = "Reciclar ahorra materias primas y disminuye la energía necesaria para fabricar nuevos productos.";
+"scan.anecdote.trash" = "Este residuo parece ser desecho general. En caso de duda, consulta las normas de tu ciudad.";
+"scan.object.unknown" = "Objeto desconocido";
+
+"camera.error.session_not_configured" = "Sesión de cámara no configurada.";
+"camera.error.session_stopped" = "Sesión de cámara detenida.";
+"camera.error.configuration_failed" = "Imposible configurar la cámara.";
+"camera.error.capture_failed" = "Error al capturar foto: %@";
+"camera.error.read_failed" = "Imposible leer la foto capturada.";
+"camera.error.unsupported_format" = "Formato de imagen no soportado.";
+
+"mock.object.banana" = "Plátano";
+
+"mock.object.apple_core" = "Núcleo de manzana";
+
+"mock.object.plastic_bottle" = "Botella de plástico";
+
+"mock.object.glass_jar" = "Botella de vidrio";
+
+"mock.object.chip_bag" = "Bolsa de papas fritas";
+
+"mock.object.cardboard" = "Cartón";
+
+"mock.object.newspaper" = "Periódico";
+
+"mock.object.aluminum_can" = "Lata de aluminio";
+
+"mock.object.coffee_cup" = "Taza de café";
+"mock.object.styrofoam" = "Cubo de hielo";
+
+"mock.object.eggshells" = "Cáscaras de huevo";
+"waste.category.compost" = "Compost";
+"waste.category.recycle" = "Reciclaje";
+"waste.category.trash" = "Otros";
+
+"onboarding.skip" = "Saltar";
+"onboarding.next" = "Continuar";
+"onboarding.start" = "Empezar";
+
+"onboarding.page1.title" = "Escanea, separa, actúa";
+"onboarding.page1.subtitle" = "Usa tu cámara para identificar residuos y obtener la instrucción correcta de separación en segundos.";
+"onboarding.page2.title" = "Un gesto que cuenta";
+"onboarding.page2.subtitle" = "Cada separación correcta reduce la huella de carbono y limita los residuos enviados al vertedero.";
+"onboarding.page3.title" = "Gana puntos";
+"onboarding.page3.subtitle" = "Progresa a tu ritmo y sigue tu impacto positivo a diario.";
+
+"onboarding.why.title" = "¿Por qué separar bien?";
+"onboarding.why.subtitle" = "• Preservar recursos: reciclar ahorra materias primas y energía.\n• Reducir contaminación: menos incineración y vertederos.\n• Proteger biodiversidad: menos basura en la naturaleza.\n• Actuar localmente: separar bien facilita el trabajo de los centros de tratamiento.";
+"onboarding.stats.title" = "¿Lo sabías?";
+"onboarding.stats.subtitle" = "• Reciclar 1 tonelada de papel salva hasta 17 árboles.\n• El aluminio se recicla infinitamente y ahorra ~95% de energía.\n• Una botella de plástico tarda hasta 450 años en degradarse.\n• El compostaje reduce fuertemente las emisiones de metano.";
+"onboarding.quiz.title" = "Mini-quiz: conviértete en pro";
+"onboarding.quiz.q1.title" = "Una botella de plástico limpia va al...";
+"onboarding.quiz.q1.option.recycle" = "Contenedor de reciclaje";
+"onboarding.quiz.q1.option.compost" = "Compost";
+"onboarding.quiz.q1.option.trash" = "Basura normal";
+"onboarding.quiz.q1.feedback.correct" = "¡Bravo! +10 puntos";
+"onboarding.quiz.q1.feedback.wrong" = "Ups, inténtalo de nuevo";
+"onboarding.badge.unlocked" = "¡Insignia desbloqueada!";
+"onboarding.badge.name.beginner" = "Principiante del reciclaje";
+"onboarding.badge.subtitle" = "¡Bravo por tus respuestas correctas! Ganas tu primera insignia.";
+"onboarding.badge.cta" = "¡Vamos!";
+
+"onboarding.badge.level" = "Nivel de insignia";
+"onboarding.badge.level.current" = "Nivel actual: %d";
+"onboarding.badge.level.next" = "Próxima insignia al nivel %d";
+
+"home.trophies.title" = "Trofeos";
+"home.trophies.subtitle" = "Tu colección de insignias ganadas";
+"home.trophies.level_requirement" = "Nivel %d";
+"badge.beginner" = "Principiante";
+"badge.junior" = "Reciclaje Junior";
+"badge.expert" = "Experto en reciclaje";
+"badge.master" = "Maestro del reciclaje";
+"home.menu.trophies" = "Trofeos";
+
+"home.menu.training" = "Entrenamiento";
+
+"game.title" = "Entrenamiento";
+"game.instructions" = "Desliza la tarjeta al contenedor correcto: Compost, Reciclaje o Basura.";
+"game.bin.compost" = "Compost";
+"game.bin.recycle" = "Reciclaje";
+"game.bin.trash" = "Basura";
+"game.feedback.correct" = "¡Bien hecho!";
+"game.feedback.wrong" = "Intenta de nuevo";
+"game.completed" = "¡Entrenamiento terminado!";
+"game.stage" = "Nivel de entrenamiento: %d";
+"game.counter" = "%d / %d";
+
+"quote.generating" = "Generando cita…";
+
+"home.points.label" = "PUNTOS";
+"home.trophies.progress_hint" = "Faltan %d niveles para desbloquear %@";
+"home.quote.placeholder" = "Solo una cita generada para esta sesión.";
+"tab.home" = "Inicio";
+"tab.training" = "Entreno";
+"tab.trophies" = "Trofeos";
+"tab.scan" = "Escanear";
+
+"game.score" = "Puntuación";
+"game.feedback.wrong_with_answer" = "Ese no. Contenedor correcto: %@";
+"game.finished.score" = "%d / %d";
+"game.restart" = "Reiniciar";
+"game.card.swipe_hint" = "Desliza a la izquierda para compost, arriba para reciclaje, a la derecha para basura.";
+"game.performance.excellent" = "Reflejos de clasificación excelentes.";
+"game.performance.strong" = "Muy buen resultado. Estás casi listo para escaneos reales.";
+"game.performance.good" = "Buen progreso. Sigue entrenando para ganar rapidez.";
+"game.performance.keep_training" = "Sigue entrenando. La práctica regular mejora rápido la precisión.";
+
+"onboarding.back" = "Volver";
+"onboarding.progress" = "Paso %d de %d";
+"scan.analyzing" = "Analizando";
+
+
+"trophy.page.subtitle" = "Sigue tu progreso global, tus logros de escaneo y tus hitos de entrenamiento.";
+"trophy.global_level" = "Nivel global";
+"trophy.global_level_hint" = "%d pts para el siguiente nivel";
+"trophy.level_badges" = "Insignias de nivel";
+"trophy.scan.title" = "Trofeos de escaneo";
+"trophy.scan.subtitle" = "Desbloquea recompensas al escanear más objetos.";
+"trophy.scan.scout" = "Explorador de escaneo";
+"trophy.scan.sorter" = "Especialista en separación";
+"trophy.scan.advanced" = "Escáner avanzado";
+"trophy.scan.legend" = "Leyenda del escaneo";
+"trophy.training.title" = "Trofeos de entrenamiento";
+"trophy.training.subtitle" = "Practica con regularidad para desbloquear hitos.";
+"trophy.training.sessions" = "Sesiones";
+"trophy.training.starter" = "Inicio de entrenamiento";
+"trophy.training.regular" = "Entrenamiento constante";
+"trophy.training.focus" = "Separador enfocado";
+"trophy.training.master" = "Maestro del entrenamiento";
+"trophy.training.highlights" = "Resumen de entrenamiento";
+"trophy.training.perfect" = "Sesiones perfectas";
+"trophy.training.best_score" = "Mejor puntuación";
+"trophy.progress.next" = "Faltan %d para desbloquear %@";
+"trophy.unlocked" = "Desbloqueado";
+"onboarding.page1.siri" = "Pidele a Siri: \"Escanea con Shifty\"";
+"onboarding.quiz.gate" = "Selecciona la respuesta correcta para continuar.";

@@ -1,0 +1,81 @@
+[
+  {
+    "metadataOutputVersion" : "3.0",
+    "shortDescription" : "Un modèle de vision embarqué qui identifie, à partir de la caméra, les objets du quotidien à trier et les classe instantanément en Compost, Recyclage ou Autres.",
+    "outputSchema" : [
+      {
+        "isOptional" : "0",
+        "formattedType" : "String",
+        "type" : "String",
+        "name" : "target",
+        "shortDescription" : ""
+      },
+      {
+        "isOptional" : "0",
+        "keyType" : "String",
+        "formattedType" : "Dictionary (String → Double)",
+        "type" : "Dictionary",
+        "name" : "targetProbability",
+        "shortDescription" : ""
+      }
+    ],
+    "modelParameters" : [
+
+    ],
+    "author" : "Baptiste barraud",
+    "specificationVersion" : 3,
+    "isUpdatable" : "0",
+    "stateSchema" : [
+
+    ],
+    "availability" : {
+      "macOS" : "10.14",
+      "tvOS" : "12.0",
+      "visionOS" : "1.0",
+      "watchOS" : "unavailable",
+      "iOS" : "12.0",
+      "macCatalyst" : "12.0"
+    },
+    "modelType" : {
+      "name" : "MLModelType_imageClassifier",
+      "structure" : [
+        {
+          "name" : "MLModelType_visionFeaturePrint"
+        },
+        {
+          "name" : "MLModelType_glmClassifier"
+        }
+      ]
+    },
+    "inputSchema" : [
+      {
+        "height" : "299",
+        "colorspace" : "BGR",
+        "isOptional" : "0",
+        "width" : "299",
+        "isColor" : "1",
+        "formattedType" : "Image (Color 299 × 299)",
+        "hasSizeFlexibility" : "0",
+        "type" : "Image",
+        "shortDescription" : "",
+        "name" : "image"
+      }
+    ],
+    "classLabels" : [
+      "Autres",
+      "Compost",
+      "Recyclage"
+    ],
+    "generatedClassName" : "WasteClassifier",
+    "userDefinedMetadata" : {
+      "com.apple.coreml.model.preview.type" : "imageClassifier",
+      "com.apple.createml.training.started" : "2026-02-08T09:42:15Z",
+      "com.apple.createml.version" : "26.3.0",
+      "com.apple.createml.training.finished" : "2026-02-08T09:42:16Z",
+      "com.apple.createml.app.tag" : "175.7",
+      "com.apple.createml.model.created" : "2026-02-08T09:42:16Z",
+      "com.apple.createml.app.version" : "6.2"
+    },
+    "method" : "predict"
+  }
+]

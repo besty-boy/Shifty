@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "87BB6018-B4EB-45E3-BD7E-CCA180E32C93": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "A19B5432-A403-450C-AB35-9E45E205B0A9": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "EcoScanner 5.mlmodel",
+            "path": "com.apple.CoreML/EcoScanner 5.mlmodel"
+        },
+        "B2F756E1-18A4-4601-9907-C9E77B559DF9": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        }
+    },
+    "rootModelIdentifier": "A19B5432-A403-450C-AB35-9E45E205B0A9"
+}
